@@ -102,5 +102,7 @@
       }
     }
   },
-  "defaultProject": "angular-taskList"
+  "cli": {
+    "analytics": false
+  }
 }
